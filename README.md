@@ -6,7 +6,7 @@ This is the couples resort Project. It is a mobile first responsible website.
 
 There is no installation required. Download the zip file and extract.
 
-## Usage
+## Usage 
 
 Open the index file in your browser of choice.
 
